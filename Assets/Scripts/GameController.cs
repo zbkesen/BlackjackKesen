@@ -26,6 +26,7 @@ public class GameController : MonoBehaviour
         
     }
 
+
     void PlayerCards()
     {
         int randNum = Random.Range(0, cards.Length);
